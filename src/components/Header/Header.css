@@ -1,0 +1,11 @@
+.manu-bar a{
+    text-decoration: none;
+    margin-left: 10px;
+    color:steelblue;
+    font-size: 25px;
+    font-weight: 600;
+    
+}
+.manu-bar a:hover{
+    color: tomato;
+}
